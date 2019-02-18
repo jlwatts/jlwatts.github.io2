@@ -10,7 +10,7 @@ title:               's3a'
 tagline:             'testing times'
 description:         'The musing of a parent, photographer and software tester'
 url:                 'https://s3a.uk'
-baseurl:          'https://s3a.uk'
+baseurl:          'https://s3a.uk/'
 
 author:
   name:           'Jonathan'
