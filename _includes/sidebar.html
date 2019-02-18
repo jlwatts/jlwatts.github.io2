@@ -17,20 +17,37 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
+      {% comment %}
+      Get an array of categories
+    {% endcomment %}
+    {% assign cats = "" %}    
+    {% for cat in site.categories %}
+      {% assign cats = cats | append: cat[0] | append: ", " %}
+    {% endfor %}
+    {% assign cats = cats | split: ", " %}
+    
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          {% unless cats contains node.title %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+          {% endunless %}
         {% endif %}
-      {% endfor %}
+      {% endif %}
+    {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-    </nav>
-
+    <span class="sidebar-nav-item">Categories</span>
+    
+    {% assign sorted_categories = site.categories | sort {|left, right| left[0] <=> right[0]} %}
+    {% for cat in sorted_categories %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/categories/{{ cat[0] }}">{{ cat[0] }}</a>
+    {% endfor %}
+    
+    
+    <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
