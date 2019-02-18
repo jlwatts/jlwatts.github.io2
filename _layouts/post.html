@@ -8,8 +8,6 @@ layout: default
   {{ content }}
 </div>
 
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page</a>
-
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -25,3 +23,5 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<a class="post-edit" href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page</a>
