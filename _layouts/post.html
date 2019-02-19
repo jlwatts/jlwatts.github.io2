@@ -8,7 +8,7 @@ layout: default
   {{ content }}
   <span class="post-categories">
     Posted in [
-    {% for cat in post.categories %}
+    {% for cat in page.categories %}
           <a href="{{ site.baseurl }}/categories/{{ cat[0] }}">{{ cat[0] }}</a>,
     {% endfor %} ]</span>
 </div>
