@@ -1,8 +1,0 @@
-Posted in [
-    {% assign cats = post.categories | uniq %}
-    {% for cat in cats %}
-          <a href="{{ site.baseurl }}/categories/{{ cat }}">{{ cat }}</a>
-          {% if cat != cats.last%}
-          ,&nbsp;
-          {% endif %}
-{% endfor %} ]
