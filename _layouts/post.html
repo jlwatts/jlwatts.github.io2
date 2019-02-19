@@ -8,7 +8,7 @@ layout: default
   {{ content }}
   <span class="post-categories">
     Posted in [
-    {% assign cats | uniq | page.categories %}
+    {% assign cats = page.categories | uniq %}
     {% for cat in cats %}
           <a href="{{ site.baseurl }}/categories/{{ cat }}">{{ cat }}</a>
           {% if cat != cats.last%}
