@@ -6,15 +6,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-  <span class="post-categories">
-    Posted in [
-    {% assign cats = page.categories | uniq %}
-    {% for cat in cats %}
-          <a href="{{ site.baseurl }}/categories/{{ cat }}">{{ cat }}</a>
-          {% if cat != cats.last%}
-          ,&nbsp;
-          {% endif %}
-    {% endfor %} ]</span>
+  {% include postcategories.html %}
 </div>
 
 <div class="related">
