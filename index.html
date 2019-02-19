@@ -11,8 +11,15 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    {% include postcategories.html %}
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">Posted in [
+    {% assign cats = post.categories | uniq %}
+    {% for cat in cats %}
+          <a href="{{ site.baseurl }}/categories/{{ cat }}">{{ cat }}</a>
+          {% if cat != cats.last%}
+          ,&nbsp;
+          {% endif %}
+    {% endfor %} ] 
+    on {{ post.date | date_to_string }}</span>
 
     {{ post.excerpt }}
     
