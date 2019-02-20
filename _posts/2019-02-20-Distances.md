@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2019-02-20 1325
+title: "Distances"
+published: false
+---
+Seems like my Couch to 5k circuit distance is about 1k.  Not sure if that makes it easier or harder to know how many circuits I need to do, to get to the magic 5K.  We'll find out tonight.
+![Screenshot of Google Maps (satellite view) of Walsworth)](https://lh3.googleusercontent.com/U1BLFJPWe6Vr12VbYn4Y8ZpvXFz3gF2Y1bmvGtrkYJCXY70LKQxN1sfL9Eu7PJl9BETnpXx6g9F6i_a3FK_iGY6UnSFGoU0hHE6kaV2KBDH6g3Czb8jSDlLq2JdbyTzn2Db5ZS2LJRrrJdWUGDxV70CXhxCrQh0dkcljeDNcwvY6HigRUChxCF96pe-ng0lz9XbLolMcT_3TKHAdtB0KRk2L5mJH6-4t3rSZTNbOYvxoskNwgGRU5JcohBXrs3d-PAlwr5Z3VHPrpQs_EBDiVKHsNTzVl_f9AL24hnwggz7UO1c62UkJuJ7Jz5J_6wrEnSsFzMtAClPGWaJ1CV9gVriaiqLBBtLwt7UhsJu_XQh0ynQ_xM9R3wgO6WoNp-u37IbWfkUnVinYRN5C1kb2eQk9oLXQ1lec_8cG2ehsoH3tjxVqrYmvcpTbKsoOTjIPPt_VUHcOwcib5PKMRMNsSlRyhECSgh8yKQxJpzny49xy6khjPgpz2TBpzaS-J9TIMj5Oi3o4N0rHRdFub_kcK766LcklrPefoFugSztxNPFw6KI-BVGa2cAi7LuiP1h02Px-72sPsh_Sd7eflJETh_Me19-fn6aY4hIui_e1lPppqw9c1gICSZZQpKkaTx5v5LcInn45Y2bhWHizIZUeRyLpvkHeEJW3=w512-h220-no_
