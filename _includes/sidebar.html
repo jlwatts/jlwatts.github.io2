@@ -36,7 +36,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
+    <span class="sidebar-nav-item">&nbsp;</span>
     <span class="sidebar-nav-item">Categories</span>
     
     {% assign sorted_categories = site.categories | sort {|left, right| left[0] <=> right[0]} %}
@@ -45,8 +45,8 @@
     {% endfor %}
       
     <span class="sidebar-nav-item">&nbsp;</span>
-    <span class="sidebar-nav-item">&nbsp;</span>
     <a class="sidebar-nav-item" href="{{site.github.repository_url}}/new/master/_posts  ">New post</a>
+    <span class="sidebar-nav-item">&nbsp;</span>
 
       
       
