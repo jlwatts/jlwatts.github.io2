@@ -1,6 +1,6 @@
 ---
-layout:post
-title: helpful links
+layout: post
+title: "helpful links"
 date: 2019-02-20 0001
 categories: [diary, tech]
 tags: [tech, Jekyll, Liquid, help]
