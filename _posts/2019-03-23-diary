@@ -1,0 +1,22 @@
+---
+layout: post
+title: Just another diary entry
+categories: [diary] 
+tags: [raspberrypi, tech, blog, Jekyll, Kids]
+date: 2019-03-23
+published: true
+---
+
+1. Got the pi sorted out with 
+  1. [Headless setup](https://hackernoon.com/raspberry-pi-headless-install-462ccabd75d0)
+  1. [Disable SSH passwords](https://raspi.tv/2012/how-to-set-up-keys-and-disable-password-login-for-ssh-on-your-raspberry-pi)
+  1. Ethernet only
+    
+    If you want to disable both wifi and bluetooth on the Pi3, you need to add these 2 lines to */boot/config.txt*. 
+
+      dtoverlay=pi3-disable-wifi
+      dtoverlay=pi3-disable-bt
+  
+  1. Dynamic DNS
+  1. [PiVPN](https://github.com/pivpn/pivpn) - works well
+  1. [PLEX](https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/) - Needs some work and probably underpowered for photos 
