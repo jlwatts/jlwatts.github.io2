@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sub 30
+title: The Mouse Trap at Martin Lane Theatre
 categories: [diary] 
 tags: [evening out, mum, theatre]
 date: 2019-05-10
