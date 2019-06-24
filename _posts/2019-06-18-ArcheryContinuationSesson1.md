@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Archery Continuation"
+title: "Archery Continuation - Session 1"
 published: true
 date: 2019-06-18
 tags: [archery, photos]
