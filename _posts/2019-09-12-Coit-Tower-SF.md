@@ -2,9 +2,9 @@
 layout: post
 title: "TITLE"
 published: true
-date: 20YY-MM-YY HH:MM:SS
-tags: [TAG1, TAG2]
-categories: [archery, diary, photography, tech]
+date: 2019-09-12 20:00:00
+tags: [SF, Pixel3a, Coit Tower]
+categories: [photography]
 ---
 ![Coit Tower @ Sunset, SF](
 https://lh3.googleusercontent.com/dFzyE9qnXPjpiIWjvqVKaGjyKdVDGJdEzW1QTFkpQVLeErKhEX0Hf6oVgm90vKQRZYIqIqG_v7SgTWhS9fkv5bGq6kWoIui3vSPqybOaQtZfYzwV8sfIY68bjarjPwdDjcmrhXhRIGUPUXSJQABNztExjm5RLo_oagTGe5VFKRtk6W1NrjM9trrdSIHAiRknYoCda_4lWDGubBDQenZJvtDnG2_PaDPpr37lzKi7BnsAtcrwOPDascFsrwVqrcEbPM2SxfwE1J-6oRHx-PPAy190FpZQvgqjYFkXw8srZWNCe-aO82iKJV4YJgC9aNVPAoJXPFZuiKR7tL5kwy9C1GACWFq7JNlUydSmnY8j9uLDipbiEbKo_yZaSOIik-nKI6NxGuxeRYNxaSEaJtWRspu30PiCrCjagj3XJ6nLqgqiH8oqSTK6omnlKEMrMKbKJeaBs2lO0TE6YCFUu7al-cntUzCrMR_7yfxjopbElPjPcYD8MvZxYGtkb5qHsn6uGTC8n379Sf-QEiaKL1jNi1orNA_S4oZNsJ1uN_Z68du0GBMDqyETbleu4OaO_7BAPpcJ6QrO5KRE6y1iHwhI8OA1BbX7haeZ2INe0g0uBGtecPY1xGjWRV0z3zASQqV92XeddsueX9-8m_nLSIwvO1C0pZigdKL5ItUoX6zIy8h5pU4Vb0CqWMTfPwQ3mBJ4TXpiTNKCWHWpErGGhdtkrMwQ2mW8buNmLtU_0WHdJiY1v0H5VQ=w1530-h862-no)
