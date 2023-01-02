@@ -25,3 +25,10 @@ github:
   repo:           https://github.com/poole/hyde
   
 github.repository_url: https://github.com/jlwatts/jlwatts.github.io
+
+# static paths
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
