@@ -1,5 +1,5 @@
-—
+—--
 layout: catpage
-permalink: /categories/photography
-title: photography
-—
+permalink: /categories/illustrations
+title: illustrations
+---
