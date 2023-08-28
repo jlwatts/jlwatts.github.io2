@@ -20,8 +20,4 @@ During the day I work as a software tester, which depending on your point of vie
 
 The truth is probably up there, somewhere.
 
-The rest of the time I try to distract  the pedantic, fault-finding part of myself by shooting arrows, taking photographs, playing with technology and jogging. 
-
-### Contact me
-
-If you want to get hold of me, the best place is DMing me on Twitter.  Where I go by [@whatie](https://m.twitter.com/whatie)
+The rest of the time I try to distract  the pedantic, fault-finding part of myself by playing warhammer, shooting arrows, taking photographs, playing with technology and jogging. 
