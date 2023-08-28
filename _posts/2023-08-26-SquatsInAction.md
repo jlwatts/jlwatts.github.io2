@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "Squats at Paritsan Games"
+title: Squats at Paritsan Games
 published: true
-date: 2023-08-26 21:00:00
-tags: [Games workshop, kill team, tournament, league of votann, squats ]
+date: 2023-08-26
+tags: [Games workshop, kill team, tournament, league of votann, squats]
 categories: [kill team]
 ---
 
-Took Squats to my third tournament on Saturday. 
+Took Squats to my third tournament on Saturday at Partisan games, Andover. Really friendly 20 person tournament, where me and the boy had loads of fun playing in the "Last days of the Gallowdark" event. 
 
-Chaos Cultists lost by 5 points on open
-Intersession won by a point on ITD
-Corsairs won by a point on open
- Kommandos lost by 6 on open
+Matches:
+
+* Chaos Cultists lost by 5 points on open
+* Intersession won by a point on ITD
+* Corsairs won by a point on open
+* Kommandos lost by 6 on open
+
+Team:
 
 I took the same list in all the games but Kommandos:
 
